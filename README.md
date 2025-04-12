@@ -133,8 +133,7 @@ F1-Score for Class 1 (cryptojacking): 0.89
 
 ## 👨‍💻 Author
 
-**Bandile Malaza**  
-Managing Partner @ Swazigist (Pty) Ltd  
+**Bandile Malaza**   
 🌍 Eswatini
 
 ---
